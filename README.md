@@ -5,7 +5,9 @@ The project that formed the inspiration, and most of the code in this wrapper, c
 This project, like version 1 and pepedeab's project, requires references to version 1.3.4 of TooTallNate's JavaWebSockets, and also version 1.0.0 of GWT websockets.
 
 JavaWebSockets can be found here: https://github.com/TooTallNate/Java-WebSocket
+
 GWT WebSockets can be found here: https://mvnrepository.com/artifact/com.sksamuel.gwt/gwt-websockets/1.0.0
+
 I have just learned that GWT-WS is now in version 1.0.4, and I will update this later when I see how the new version works with pepenet.
 
 As before, a Java project that extends pepedeab's WebSockets project into a library that is platform-agnostic and as drag-n-drop as possible.
