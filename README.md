@@ -1,6 +1,8 @@
 # pepenetv2
 Version 2 of the PepeNet wrapper for java websockets.
 
+The project that formed the inspiration, and most of the code in this wrapper, can be found here: https://github.com/pepedeab/libGDX-Net
+
 As before, a Java project that extends pepedeab's WebSockets project into a library that is platform-agnostic and as drag-n-drop as possible.
 
 This wrapper not only uses a refactored version of pepedeab's awesome little demo, updated to deal with the goofy drafts issues (and no doubt we'll be revisiting THAT again soon, *sigh*) as well as certain weirdnesses that have crept in through the GWT websockets stuff, but also does not include any of the demo-specific code pepedeab used this stuff for - no playing cards, sorry. Although this wrapper (and pepedeab's original demo project, too) are intended for use with LibGDX, there is no reason why it wouldn't work in vanilla Java projects, or indeed, anywhere you can attach a java project as a reference.
